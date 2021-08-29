@@ -1,7 +1,9 @@
 # <center> **Tkinter** </center>
 ---
 
-
+<p align="center">
+<img align="center" alt="GIF" src="https://github.com/vanshika0111/Tkinter/blob/master/readme%20essentials/images.jpg" width="500" height="320" />
+</p>
 ### **DESCRIPTION**
 ---
 
