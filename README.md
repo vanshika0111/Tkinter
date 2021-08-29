@@ -13,6 +13,8 @@ To sit across a device for long hours & doing all the searches and work & readin
 Thus, a Graphical User Interface (GUI) was implemented. In GUI, you not only surf internet but also interact with the device.
 There are various interfaces available today. However, in this repository the main focus is on TKinter.
 
+![Alt Text](https://github.com/vanshika0111/Tkinter/blob/master/readme%20essentials/1592984761-71449.jpg
+
 ### **TKINTER**
 ---
 
