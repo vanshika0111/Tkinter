@@ -1,6 +1,9 @@
 # <center> **Tkinter** </center>
 ---
 
+<p align="center">
+<img align="center" alt="GIF" src="https://github.com/vanshika0111/Tkinter/blob/master/readme%20essentials/images.jpg" width="500" height="320" />
+</p>
 
 ### **DESCRIPTION**
 ---
@@ -9,6 +12,8 @@ Computer is a great invention in the human era. It perofrmed & evolved with time
 To sit across a device for long hours & doing all the searches and work & reading & surfing the internet was quite aboredom.
 Thus, a Graphical User Interface (GUI) was implemented. In GUI, you not only surf internet but also interact with the device.
 There are various interfaces available today. However, in this repository the main focus is on TKinter.
+
+![Alt Text](https://github.com/vanshika0111/Tkinter/blob/master/readme%20essentials/1592984761-71449.jpg)
 
 ### **TKINTER**
 ---
