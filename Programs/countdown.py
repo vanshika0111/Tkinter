@@ -1,4 +1,4 @@
-# countdown
+# countdown clock
 
 from tkinter import *
 import time
